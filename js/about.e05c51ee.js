@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{attrs:{id:"about"}},[t("h3",[e._v("A basic TODO app")]),t("p",[e._v("\n    Frontend: Vue.JS "),t("br"),e._v("\n    Backend: JSONPlaceholder(A fake online REST API service)\n  ")])])}],c=t("2877"),l={},u=Object(c["a"])(l,a,r,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=about.e05c51ee.js.map
