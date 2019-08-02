@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3>A basic TODO app</h3>
+    <p>
+      Frontend: Vue.JS <br>
+      Backend: JSONPlaceholder(A fake online REST API service)
+    </p>
   </div>
 </template>
